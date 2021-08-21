@@ -1,6 +1,6 @@
 x= "si"
 
-if --x:
+if ==x:
     print("llegarias  temprano a tu destino")
 else:
     print("no llegarias tarde a tu destino")    
